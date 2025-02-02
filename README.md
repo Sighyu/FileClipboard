@@ -12,7 +12,7 @@ FileClipboard is a simple CLI tool that copies one or more file paths to your cl
 
 ## Requirements
 - Windows
-- [.NET 6.0 or later](https://dotnet.microsoft.com/download) (with Windows Forms support enabled)
+- [.NET 9.0 or later](https://dotnet.microsoft.com/download) (with Windows Forms support enabled)
 
 ## Usage
 1. **Interactive Mode:**  
